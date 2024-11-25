@@ -1,0 +1,106 @@
+{
+    "bigCats": [
+        {
+            "species": "Big Cats",
+            "name": "Tiger",
+            "size": "10 ft",
+            "location": "Asia",
+            "image": "images/tiger.png"
+        },
+        {
+            "species": "Big Cats",
+            "name": "Lion",
+            "size": "8 ft",
+            "location": "Africa",
+            "image": "images/lion.png"
+        },
+        {
+            "species": "Big Cats",
+            "name": "Leopard",
+            "size": "5 ft",
+            "location": "Africa and Asia",
+            "image": "images/leopard.png"
+        },
+        {
+            "species": "Big Cats",
+            "name": "Cheetah",
+            "size": "5 ft",
+            "location": "Africa",
+            "image": "images/cheetah.png"
+        },
+        {
+            "species": "Big Cats",
+            "name": "Caracal",
+            "size": "3 ft",
+            "location": "Africa",
+            "image": "images/caracal.png"
+        },
+        {
+            "species": "Big Cats",
+            "name": "Jaguar",
+            "size": "5 ft",
+            "location": "Amazon",
+            "image": "images/jaguar.png"
+        }
+    ],
+    "dogs": [
+        {
+            "species": "Dog",
+            "name": "Rotwailer",
+            "size": "2 ft",
+            "location": "Germany",
+            "image": "images/rotwailer.png"
+        },
+        {
+            "species": "Dog",
+            "name": "German Shepherd",
+            "size": "2 ft",
+            "location": "Germany",
+            "image": "images/german_shepherd.png"
+        },
+        {
+            "species": "Dog",
+            "name": "Labrodar",
+            "size": "2 ft",
+            "location": "UK",
+            "image": "images/labrodar.png"
+        },
+        {
+            "species": "Dog",
+            "name": "Alabai",
+            "size": "4 ft",
+            "location": "Turkey",
+            "image": "images/alabai.png"
+        }
+    ],
+    "bigFish": [
+        {
+            "species": "Big Fish",
+            "name": "Humpback Whale",
+            "size": "15 ft",
+            "location": "Atlantic Ocean",
+            "image": "images/humpback_whale.png"
+        },
+        {
+            "species": "Big Fish",
+            "name": "Killer Whale",
+            "size": "12 ft",
+            "location": "Atlantic Ocean",
+            "image": "images/killer_whale.png"
+        },
+        {
+            "species": "Big Fish",
+            "name": "Tiger Shark",
+            "size": "8 ft",
+            "location": "Ocean",
+            "image": "images/tiger_shark.png"
+        },
+        {
+            "species": "Big Fish",
+            "name": "Hammerhead Shark",
+            "size": "8 ft",
+            "location": "Ocean",
+            "image": "images/hammerhead_shark.png"
+        }
+    ]
+}
